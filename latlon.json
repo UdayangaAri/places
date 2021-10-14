@@ -1,0 +1,50 @@
+{
+  "VP": {
+    "name": "Victoria Park",
+    "capital": "Montgomery",
+    "lat": "6.969269291338258",
+    "long": "80.76732473544533"
+  },
+  "LG": {
+    "name": "Lake Gregory",
+    "capital": "Juneau",
+    "lat": "6.956687528024942",
+    "long": "80.77775377168894"
+  },
+  "HG": {
+    "name": "Hakgala",
+    "capital": "Phoenix",
+    "lat": "6.926883114783792",
+    "long": "80.82124945026317"
+  },
+  "ST": {
+    "name": "Single Tree Hill",
+    "capital": "Little Rock",
+    "lat": "6.9587222836456935",
+    "long": "80.76411012539921"
+  },
+  "GL": {
+    "name": "Gallway's Land",
+    "capital": "Sacramento",
+    "lat": "6.967642652439116",
+    "long": "80.78101696244948"
+  },
+  "MP": {
+    "name": "Moon Plains",
+    "capital": "Denver",
+    "lat": "6.943749408401035",
+    "long": "80.82357876985839"
+  },
+  "DL": {
+    "name": "Damro Labookaley",
+    "capital": "Hartford",
+    "lat": "7.025209857086291",
+    "long": "80.72018944127535"
+  },
+  "AF": {
+    "name": "Ambewela Farm",
+    "capital": "Dover",
+    "lat": "6.869949016016593",
+    "long": "80.79721751006078"
+  }
+}
